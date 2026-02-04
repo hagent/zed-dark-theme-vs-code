@@ -2,7 +2,7 @@
   "name": "zed-editor-dark-theme",
   "displayName": "ZED Editor Dark Theme",
   "description": "ZED Editor Dark Theme",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "publisher": "hagent",
   "icon": "icon.png",
   "engines": {
